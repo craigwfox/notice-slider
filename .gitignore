@@ -1,0 +1,8 @@
+.vscode/*
+node_modules/
+*.log
+npm-debug.log*
+.npm
+.eslintcache
+.env*
+.DS_Store

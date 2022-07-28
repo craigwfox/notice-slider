@@ -1,0 +1,11 @@
+{
+  "name": "notice-slider",
+  "version": "0.0.1",
+  "description": "A web component slider for displaying notices",
+  "main": "notice-slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Fox",
+  "license": "ISC"
+}
